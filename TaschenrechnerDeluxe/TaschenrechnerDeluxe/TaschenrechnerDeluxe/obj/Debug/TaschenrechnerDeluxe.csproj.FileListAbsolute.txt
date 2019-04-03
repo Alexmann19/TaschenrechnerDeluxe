@@ -1,0 +1,14 @@
+C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\TaschenrechnerDeluxe\TaschenrechnerDeluxe\TaschenrechnerDeluxe\TaschenrechnerDeluxe\bin\Debug\TaschenrechnerDeluxe.exe.config
+C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\TaschenrechnerDeluxe\TaschenrechnerDeluxe\TaschenrechnerDeluxe\TaschenrechnerDeluxe\bin\Debug\TaschenrechnerDeluxe.exe
+C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\TaschenrechnerDeluxe\TaschenrechnerDeluxe\TaschenrechnerDeluxe\TaschenrechnerDeluxe\bin\Debug\TaschenrechnerDeluxe.pdb
+C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\TaschenrechnerDeluxe\TaschenrechnerDeluxe\TaschenrechnerDeluxe\TaschenrechnerDeluxe\obj\Debug\TaschenrechnerDeluxe.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\TaschenrechnerDeluxe\TaschenrechnerDeluxe\TaschenrechnerDeluxe\TaschenrechnerDeluxe\obj\Debug\TaschenrechnerDeluxe.Form1.resources
+C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\TaschenrechnerDeluxe\TaschenrechnerDeluxe\TaschenrechnerDeluxe\TaschenrechnerDeluxe\obj\Debug\TaschenrechnerDeluxe.Properties.Resources.resources
+C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\TaschenrechnerDeluxe\TaschenrechnerDeluxe\TaschenrechnerDeluxe\TaschenrechnerDeluxe\obj\Debug\TaschenrechnerDeluxe.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\TaschenrechnerDeluxe\TaschenrechnerDeluxe\TaschenrechnerDeluxe\TaschenrechnerDeluxe\obj\Debug\TaschenrechnerDeluxe.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\TaschenrechnerDeluxe\TaschenrechnerDeluxe\TaschenrechnerDeluxe\TaschenrechnerDeluxe\obj\Debug\TaschenrechnerDeluxe.exe
+C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\TaschenrechnerDeluxe\TaschenrechnerDeluxe\TaschenrechnerDeluxe\TaschenrechnerDeluxe\obj\Debug\TaschenrechnerDeluxe.pdb
+C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\TaschenrechnerDeluxe\TaschenrechnerDeluxe\TaschenrechnerDeluxe\TaschenrechnerDeluxe\bin\Debug\TaschenrechnerDeluxe.exe.manifest
+C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\TaschenrechnerDeluxe\TaschenrechnerDeluxe\TaschenrechnerDeluxe\TaschenrechnerDeluxe\bin\Debug\TaschenrechnerDeluxe.application
+C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\TaschenrechnerDeluxe\TaschenrechnerDeluxe\TaschenrechnerDeluxe\TaschenrechnerDeluxe\obj\Debug\TaschenrechnerDeluxe.exe.manifest
+C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\TaschenrechnerDeluxe\TaschenrechnerDeluxe\TaschenrechnerDeluxe\TaschenrechnerDeluxe\obj\Debug\TaschenrechnerDeluxe.application
