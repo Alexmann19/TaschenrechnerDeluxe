@@ -55,6 +55,7 @@
             this.tbfeld2 = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.tbergebnis = new System.Windows.Forms.TextBox();
+            this.btastevminus = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btastekomma
@@ -183,7 +184,7 @@
             this.bergebnis.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.bergebnis.Location = new System.Drawing.Point(198, 427);
             this.bergebnis.Name = "bergebnis";
-            this.bergebnis.Size = new System.Drawing.Size(137, 38);
+            this.bergebnis.Size = new System.Drawing.Size(137, 47);
             this.bergebnis.TabIndex = 12;
             this.bergebnis.Text = "=";
             this.bergebnis.UseVisualStyleBackColor = true;
@@ -328,11 +329,23 @@
             this.tbergebnis.Size = new System.Drawing.Size(322, 20);
             this.tbergebnis.TabIndex = 27;
             // 
+            // btastevminus
+            // 
+            this.btastevminus.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btastevminus.Location = new System.Drawing.Point(136, 427);
+            this.btastevminus.Name = "btastevminus";
+            this.btastevminus.Size = new System.Drawing.Size(56, 47);
+            this.btastevminus.TabIndex = 28;
+            this.btastevminus.Text = "(-)";
+            this.btastevminus.UseVisualStyleBackColor = true;
+            this.btastevminus.Click += new System.EventHandler(this.btastevminus_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(347, 486);
+            this.Controls.Add(this.btastevminus);
             this.Controls.Add(this.tbergebnis);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.tbfeld2);
@@ -396,6 +409,7 @@
         private System.Windows.Forms.TextBox tbfeld2;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.TextBox tbergebnis;
+        private System.Windows.Forms.Button btastevminus;
     }
 }
 

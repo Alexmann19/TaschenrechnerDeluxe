@@ -394,5 +394,20 @@ namespace TaschenrechnerDeluxe
             zahl2k = Convert.ToString(ergebnis);
             zahl2 = ergebnis;
         }
+
+        private void btastevminus_Click(object sender, EventArgs e)
+        {
+            if (zweiteline == false)
+            {
+                zahl1 = zahl1 * -1.0;
+                tbfeld1.Text = Convert.ToString(zahl1);
+            }
+            else
+            if (zweiteline == true)
+            {
+                zahl2 = zahl2 * -1.0;
+                tbfeld2.Text = Convert.ToString(zahl2);
+            }
+        }
     }
 }
