@@ -101,7 +101,7 @@ namespace TaschenrechnerDeluxe
             zahl1 = Convert.ToDouble(zahl1k);
         }
 
-        public void zahl2i (string zahl2ss)
+        public void zahl2i(string zahl2ss)
         {
             if (delete2 == true)
             {
@@ -109,7 +109,8 @@ namespace TaschenrechnerDeluxe
                 zahl2k = "";
                 delete2 = false;
             }
-
+            int zahlkl = Convert.ToInt32(zahl2ss);
+            
             int count1 = zahl2k.Length;
 
             StringBuilder sb = new StringBuilder();
@@ -124,7 +125,15 @@ namespace TaschenrechnerDeluxe
 
             tbfeld2.Text = zahl2k;
 
+            if (zeichen == 2 & tbfeld2.Text == "0")
+            {
+                MessageBox.Show("Man kann nicht durch 0 Dividieren", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                tbfeld2.Text = "";
+                delete2 = true;
+            }
+            else
             zahl2 = Convert.ToDouble(zahl2k);
+            
         }
 
         private void btaste1_Click(object sender, EventArgs e)
